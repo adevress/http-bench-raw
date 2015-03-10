@@ -1,0 +1,12 @@
+xrootd - no disk accesses available.
+FILESYSTEM='root'
+Opening 'root://lcg-door3.scinet.utoronto.ca:1094//pnfs/scinet.utoronto.ca/data/dteam/group.test.hc.NTUP_SMWZ.root'
+XrdSec: No authentication protocols are available.
+Error in <TXNetSystem::Connect>: some severe error occurred while opening the connection at root://lcg-door3.scinet.utoronto.ca//pnfs/scinet.utoronto.ca/data/dteam/group.test.hc.NTUP_SMWZ.root - exit
+   'cannot obtain credentials for protocol: Secgsi: ErrParseBuffer: error getting user proxies: kXGS_init: unable to get protocol object.'
+Error in <TXNetSystem::TXNetSystem>: fatal error: connection creation failed.
+XrdSec: No authentication protocols are available.
+150131 11:43:11 17075 Xrd: Open: Authentication failure: cannot obtain credentials for protocol: Secgsi: ErrParseBuffer: error getting user proxies: kXGS_init: unable to get protocol object
+Error in <TXNetFile::CreateXClient>: open attempt failed on root://lcg-door3.scinet.utoronto.ca//pnfs/scinet.utoronto.ca/data/dteam/group.test.hc.NTUP_SMWZ.root
+150131 11:48:11 17086 Xrd: XrdClientMessage::ReadRaw: Failed to read header (8 bytes).
+150131 11:48:12 17087 Xrd: XrdClientMessage::ReadRaw: Failed to read header (8 bytes).

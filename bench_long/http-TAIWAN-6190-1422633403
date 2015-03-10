@@ -1,0 +1,85 @@
+
+mount point from fn: https:
+Opening 'https://f-dpm000.grid.sinica.edu.tw/dpm/grid.sinica.edu.tw/home/dteam/group.test.hc.NTUP_SMWZ.root'
+Warning in <TClass::TClass>: no dictionary for class AttributeListLayout is available
+Warning in <TClass::TClass>: no dictionary for class pair<string,string> is available
+nentries 11918
+Starting event loop 
+Error in <TDavixFile::DavixReadBuffers>: can not read data with davix: Connection timed out (8)
+Error in <TBranch::GetBasket>: File: https://f-dpm000.grid.sinica.edu.tw/dpm/grid.sinica.edu.tw/home/dteam/group.test.hc.NTUP_SMWZ.root at byte:31675853, branch:RunNumber, entry:630, badread=1, nerrors=1, basketnumber=1
+Error in <TBranch::GetBasket>: File: https://f-dpm000.grid.sinica.edu.tw/dpm/grid.sinica.edu.tw/home/dteam/group.test.hc.NTUP_SMWZ.root at byte:0, branch:RunNumber, entry:631, badread=0, nerrors=2, basketnumber=1
+Error in <TBranch::GetBasket>: File: https://f-dpm000.grid.sinica.edu.tw/dpm/grid.sinica.edu.tw/home/dteam/group.test.hc.NTUP_SMWZ.root at byte:0, branch:RunNumber, entry:632, badread=0, nerrors=3, basketnumber=1
+Error in <TBranch::GetBasket>: File: https://f-dpm000.grid.sinica.edu.tw/dpm/grid.sinica.edu.tw/home/dteam/group.test.hc.NTUP_SMWZ.root at byte:0, branch:RunNumber, entry:633, badread=0, nerrors=4, basketnumber=1
+Error in <TBranch::GetBasket>: File: https://f-dpm000.grid.sinica.edu.tw/dpm/grid.sinica.edu.tw/home/dteam/group.test.hc.NTUP_SMWZ.root at byte:0, branch:RunNumber, entry:634, badread=0, nerrors=5, basketnumber=1
+Error in <TBranch::GetBasket>: File: https://f-dpm000.grid.sinica.edu.tw/dpm/grid.sinica.edu.tw/home/dteam/group.test.hc.NTUP_SMWZ.root at byte:0, branch:RunNumber, entry:635, badread=0, nerrors=6, basketnumber=1
+Error in <TBranch::GetBasket>: File: https://f-dpm000.grid.sinica.edu.tw/dpm/grid.sinica.edu.tw/home/dteam/group.test.hc.NTUP_SMWZ.root at byte:0, branch:RunNumber, entry:636, badread=0, nerrors=7, basketnumber=1
+Error in <TBranch::GetBasket>: File: https://f-dpm000.grid.sinica.edu.tw/dpm/grid.sinica.edu.tw/home/dteam/group.test.hc.NTUP_SMWZ.root at byte:0, branch:RunNumber, entry:637, badread=0, nerrors=8, basketnumber=1
+Error in <TBranch::GetBasket>: File: https://f-dpm000.grid.sinica.edu.tw/dpm/grid.sinica.edu.tw/home/dteam/group.test.hc.NTUP_SMWZ.root at byte:0, branch:RunNumber, entry:638, badread=0, nerrors=9, basketnumber=1
+Error in <TBranch::GetBasket>: File: https://f-dpm000.grid.sinica.edu.tw/dpm/grid.sinica.edu.tw/home/dteam/group.test.hc.NTUP_SMWZ.root at byte:0, branch:RunNumber, entry:639, badread=0, nerrors=10, basketnumber=1
+Error in <TDavixFile::DavixReadBuffers>: can not read data with davix: Connection timed out (8)
+Error in <TDavixFile::DavixReadBuffers>: can not read data with davix: Connection timed out (8)
+Error in <TDavixFile::DavixReadBuffers>: can not read data with davix: Connection timed out (8)
+Error in <TDavixFile::DavixReadBuffers>: can not read data with davix: Connection timed out (8)
+Error in <TDavixFile::DavixReadBuffers>: can not read data with davix: Connection timed out (8)
+Error in <TDavixFile::DavixReadBuffers>: can not read data with davix: Connection timed out (8)
+Error in <TDavixFile::DavixReadBuffers>: can not read data with davix: Connection timed out (8)
+Error in <TDavixFile::DavixReadBuffers>: can not read data with davix: Connection timed out (8)
+Error in <TDavixFile::DavixReadBuffers>: can not read data with davix: Connection timed out (8)
+Error in <TDavixFile::DavixReadBuffers>: can not read data with davix: Connection timed out (8)
+Error in <TDavixFile::DavixReadBuffers>: can not read data with davix: Connection timed out (8)
+Error in <TDavixFile::DavixReadBuffers>: can not read data with davix: Connection timed out (8)
+Error in <TDavixFile::DavixReadBuffers>: can not read data with davix: Connection timed out (8)
+ file probably overwritten: stopping reporting error messages
+******TreeCache statistics for tree: physics in file: https://f-dpm000.grid.sinica.edu.tw/dpm/grid.sinica.edu.tw/home/dteam/group.test.hc.NTUP_SMWZ.root ******
+Number of branches in the cache ...: 5860
+Cache Efficiency ..................: 0.301569
+Cache Efficiency Rel...............: 1.000000
+Learn entries......................: 1
+Cached Reading.....................: 206227569 bytes in 5 transactions
+Reading............................: 0 bytes in 0 uncached transactions
+Readahead..........................: 256000 bytes with overhead = 0 bytes
+Average transaction................: 41245.513800 Kbytes
+Number of blocks in current cache..: 8916, total size: 38280301
+TreeCache = 31 MBytes
+N leaves  = 5860
+ReadTotal = 0 MBytes
+ReadUnZip = 0 MBytes
+ReadCalls = 0
+ReadSize  =    -nan KBytes/read
+Readahead = 256 KBytes
+Readextra =  -nan per cent
+Real Time = 234.734 seconds
+CPU  Time =  13.890 seconds
+Disk Time =   0.000 seconds
+Disk IO   =    -nan MBytes/s
+ReadUZRT  =   0.000 MBytes/s
+ReadUZCP  =   0.000 MBytes/s
+ReadRT    =   0.000 MBytes/s
+ReadCP    =   0.000 MBytes/s
+TOTALSIZE=2110016478
+ZIPSIZE=793620035
+FILENAME='https://f-dpm000.grid.sinica.edu.tw/dpm/grid.sinica.edu.tw/home/dteam/group.test.hc.NTUP_SMWZ.root'
+EVENTS=11918
+WALLTIME=234.727
+CPUTIME=13.89
+CACHESIZE=3.14573e+07
+Read from tree: 4.98239e+08
+ROOTBYTESREAD=207885167
+ROOTREADS=9
+ROOTVERSION=49361
+ROOTBRANCH='heads/v5-34-00-patches'
+VMEM=375180
+RSS=198684
+CPUSTATUS=0.17
+
+
+mount point from fn: https:
+HDDREADS=0
+reads merged:  0
+reads sectors: 0   in Mb: 0
+HDDTIME=0
+ETHERNETIN=71498
+ETHERNETOUT=59996
+TotalIOTime=312.562
+TotalIOSize=2.07885e+08
+TotialIOCalls=9

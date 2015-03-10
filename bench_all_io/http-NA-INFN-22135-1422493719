@@ -1,0 +1,14 @@
+
+mount point from fn: https:
+Opening 'https://t2-dpm-01.na.infn.it/dpm/na.infn.it/home/dteam/group.test.hc.NTUP_SMWZ.root'
+Error in <DavixOpen>: can not open file with davix: Failure (Neon): SSL handshake failed: SSL error: sslv3 alert certificate expired after 10 attempts (24)
+Error in <TSSLSocket::WrapWithSSL>: cannot connect
+Error in <TWebFile::GetHead>: cannot connect to host t2-dpm-01.na.infn.it (errno=0)
+Error in <TSSLSocket::WrapWithSSL>: cannot connect
+Error in <TWebSocket::ReOpen>: cannot connect to host t2-dpm-01.na.infn.it (errno=0)
+Error in <TWebFile::GetFromWeb10>: cannot connect to host t2-dpm-01.na.infn.it
+
+ *** Break *** segmentation violation
+TFile::Open failed. Trying again with TWebFile... Generating stack trace...
+ 0x00007f3765d68d5d in __libc_start_main + 0xfd from /lib64/libc.so.6
+ 0x0000000000404379 in <unknown> from ./testHammercloud

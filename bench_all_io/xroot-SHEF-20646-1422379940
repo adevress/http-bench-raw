@@ -1,0 +1,7 @@
+xrootd - no disk accesses available.
+FILESYSTEM='root'
+Opening 'root://lcgse0.shef.ac.uk//dteam/group.test.hc.NTUP_SMWZ.root'
+Warning in <TClass::TClass>: no dictionary for class AttributeListLayout is available
+Warning in <TClass::TClass>: no dictionary for class pair<string,string> is available
+nentries 11918
+Starting event loop 

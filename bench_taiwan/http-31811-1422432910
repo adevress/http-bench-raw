@@ -1,0 +1,15 @@
+
+mount point from fn: https:
+Opening 'https://f-dpm000.grid.sinica.edu.tw/dpm/grid.sinica.edu.tw/home/dteam/group.test.hc.NTUP_SMWZ.root'
+Error in <DavixOpen>: can not open file with davix: Connection timed out (8)
+SysError in <TUnixSystem::UnixTcpConnect>: connect (f-dpm000.grid.sinica.edu.tw:443) (Connection refused)
+Error in <TSSLSocket::WrapWithSSL>: cannot connect
+Error in <TWebFile::GetHead>: cannot connect to host f-dpm000.grid.sinica.edu.tw (errno=9)
+Error in <TSSLSocket::WrapWithSSL>: cannot connect
+Error in <TWebSocket::ReOpen>: cannot connect to host f-dpm000.grid.sinica.edu.tw (errno=0)
+Error in <TWebFile::GetFromWeb10>: cannot connect to host f-dpm000.grid.sinica.edu.tw
+
+ *** Break *** segmentation violation
+TFile::Open failed. Trying again with TWebFile... Generating stack trace...
+ 0x0000003575c1ed5d in __libc_start_main + 0xfd from /lib64/libc.so.6
+ 0x0000000000404379 in <unknown> from ./testHammercloud

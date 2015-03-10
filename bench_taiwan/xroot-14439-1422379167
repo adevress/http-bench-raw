@@ -1,0 +1,54 @@
+xrootd - no disk accesses available.
+FILESYSTEM='root'
+Opening 'root://f-dpm000.grid.sinica.edu.tw//dteam/group.test.hc.NTUP_SMWZ.root'
+Warning in <TClass::TClass>: no dictionary for class AttributeListLayout is available
+Warning in <TClass::TClass>: no dictionary for class pair<string,string> is available
+nentries 11918
+Starting event loop 
+******TreeCache statistics for tree: physics in file: root://f-dpm000.grid.sinica.edu.tw//dteam/group.test.hc.NTUP_SMWZ.root ******
+Number of branches in the cache ...: 5860
+Cache Efficiency ..................: 1.000000
+Cache Efficiency Rel...............: 1.000000
+Learn entries......................: 1
+Cached Reading.....................: 793606399 bytes in 19 transactions
+Reading............................: 0 bytes in 0 uncached transactions
+Readahead..........................: 256000 bytes with overhead = 0 bytes
+Average transaction................: 41768.757842 Kbytes
+Number of blocks in current cache..: 8916, total size: 38280301
+TreeCache = 31 MBytes
+N leaves  = 5860
+ReadTotal = 0 MBytes
+ReadUnZip = 0 MBytes
+ReadCalls = 0
+ReadSize  =    -nan KBytes/read
+Readahead = 256 KBytes
+Readextra =  -nan per cent
+Real Time = 386.873 seconds
+CPU  Time =  35.360 seconds
+Disk Time =   0.000 seconds
+Disk IO   =    -nan MBytes/s
+ReadUZRT  =   0.000 MBytes/s
+ReadUZCP  =   0.000 MBytes/s
+ReadRT    =   0.000 MBytes/s
+ReadCP    =   0.000 MBytes/s
+TOTALSIZE=2110016478
+ZIPSIZE=793620035
+FILENAME='root://f-dpm000.grid.sinica.edu.tw//dteam/group.test.hc.NTUP_SMWZ.root'
+EVENTS=11918
+WALLTIME=386.866
+CPUTIME=35.36
+CACHESIZE=3.14573e+07
+Read from tree: 1.91625e+09
+ROOTBYTESREAD=795263997
+ROOTREADS=23
+ROOTVERSION=49361
+ROOTBRANCH='heads/v5-34-00-patches'
+VMEM=564140
+RSS=177672
+CPUSTATUS=0.06
+
+ETHERNETIN=58369
+ETHERNETOUT=46791
+TotalIOTime=361.945
+TotalIOSize=1.51232e+09
+TotialIOCalls=23
