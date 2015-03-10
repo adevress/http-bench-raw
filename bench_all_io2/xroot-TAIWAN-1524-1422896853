@@ -1,0 +1,16 @@
+xrootd - no disk accesses available.
+FILESYSTEM='root'
+Opening 'root://f-dpm000.grid.sinica.edu.tw//dteam/group.test.hc.NTUP_SMWZ.root'
+150202 18:07:34 2971 Xrd: CheckErrorStatus: Server [f-dpm000.grid.sinica.edu.tw] declared: Permission denied(error code: 3010)
+150202 18:07:34 2971 Xrd: Open: Error opening the file /dteam/group.test.hc.NTUP_SMWZ.root on host f-dpm000.grid.sinica.edu.tw:1094
+Error in <TXNetFile::CreateXClient>: open attempt failed on root://f-dpm000.grid.sinica.edu.tw//dteam/group.test.hc.NTUP_SMWZ.root
+SysError in <TUnixSystem::UnixRecv>: recv (Connection reset by peer)
+Error in <TWebFile::GetLine>: error receiving data from host f-dpm000.grid.sinica.edu.tw
+SysError in <TUnixSystem::UnixRecv>: recv (Connection reset by peer)
+Error in <TWebFile::GetLine>: error receiving data from host f-dpm000.grid.sinica.edu.tw
+Error in <TWebFile::GetFromWeb10>: error receiving expected amount of data (got 0, expected 4) from host f-dpm000.grid.sinica.edu.tw
+
+ *** Break *** segmentation violation
+TFile::Open failed. Trying again with TWebFile... Generating stack trace...
+ 0x00000038b5c1ed5d in __libc_start_main + 0xfd from /lib64/libc.so.6
+ 0x0000000000404379 in <unknown> from ./testHammercloud

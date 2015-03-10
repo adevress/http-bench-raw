@@ -1,0 +1,60 @@
+
+mount point from fn: http:
+Opening 'http://https-server.cern.ch/group.test.hc.NTUP_SMWZ.root'
+Warning in <TClass::TClass>: no dictionary for class AttributeListLayout is available
+Warning in <TClass::TClass>: no dictionary for class pair<string,string> is available
+nentries 11918
+Starting event loop 
+******TreeCache statistics for tree: physics in file: http://https-server.cern.ch/group.test.hc.NTUP_SMWZ.root ******
+Number of branches in the cache ...: 5860
+Cache Efficiency ..................: 1.000000
+Cache Efficiency Rel...............: 1.000000
+Learn entries......................: 1
+Cached Reading.....................: 793606399 bytes in 19 transactions
+Reading............................: 0 bytes in 0 uncached transactions
+Readahead..........................: 256000 bytes with overhead = 0 bytes
+Average transaction................: 41768.757842 Kbytes
+Number of blocks in current cache..: 8916, total size: 38280301
+TreeCache = 31 MBytes
+N leaves  = 5860
+ReadTotal = 0 MBytes
+ReadUnZip = 0 MBytes
+ReadCalls = 0
+ReadSize  =    -nan KBytes/read
+Readahead = 256 KBytes
+Readextra =  -nan per cent
+Real Time =  61.923 seconds
+CPU  Time =  59.130 seconds
+Disk Time =   0.000 seconds
+Disk IO   =    -nan MBytes/s
+ReadUZRT  =   0.000 MBytes/s
+ReadUZCP  =   0.000 MBytes/s
+ReadRT    =   0.000 MBytes/s
+ReadCP    =   0.000 MBytes/s
+TOTALSIZE=2110016478
+ZIPSIZE=793620035
+FILENAME='http://https-server.cern.ch/group.test.hc.NTUP_SMWZ.root'
+EVENTS=11918
+WALLTIME=61.9191
+CPUTIME=59.13
+CACHESIZE=3.14573e+07
+Read from tree: 1.91625e+09
+ROOTBYTESREAD=795263997
+ROOTREADS=23
+ROOTVERSION=49361
+ROOTBRANCH='heads/v5-34-00-patches'
+VMEM=350120
+RSS=172656
+CPUSTATUS=0.83
+
+
+mount point from fn: http:
+HDDREADS=0
+reads merged:  0
+reads sectors: 0   in Mb: 0
+HDDTIME=0
+ETHERNETIN=549334
+ETHERNETOUT=271629
+TotalIOTime=6.91316
+TotalIOSize=7.95264e+08
+TotialIOCalls=23

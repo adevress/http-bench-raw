@@ -1,0 +1,7 @@
+
+mount point from fn: https:
+Opening 'https://t2-dpm-01.na.infn.it/dpm/na.infn.it/home/dteam/group.test.hc.NTUP_SMWZ.root'
+Warning in <TClass::TClass>: no dictionary for class AttributeListLayout is available
+Warning in <TClass::TClass>: no dictionary for class pair<string,string> is available
+nentries 11918
+Starting event loop 

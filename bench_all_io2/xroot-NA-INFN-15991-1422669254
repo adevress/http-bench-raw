@@ -1,0 +1,15 @@
+xrootd - no disk accesses available.
+FILESYSTEM='root'
+Opening 'root://t2-dpm-01.na.infn.it:1094//dteam/group.test.hc.NTUP_SMWZ.root'
+Error in <TNetXNGFile::Open>: [ERROR] Server responded with an error: [3010] Permission denied
+
+SysError in <TUnixSystem::UnixRecv>: recv (Connection reset by peer)
+Error in <TWebFile::GetLine>: error receiving data from host t2-dpm-01.na.infn.it
+SysError in <TUnixSystem::UnixRecv>: recv (Connection reset by peer)
+Error in <TWebFile::GetLine>: error receiving data from host t2-dpm-01.na.infn.it
+Error in <TWebFile::GetFromWeb10>: error receiving expected amount of data (got 0, expected 4) from host t2-dpm-01.na.infn.it
+
+ *** Break *** segmentation violation
+TFile::Open failed. Trying again with TWebFile... Generating stack trace...
+ 0x000000380f61ed5d in __libc_start_main + 0xfd from /lib64/libc.so.6
+ 0x0000000000404379 in <unknown> from ./testHammercloud

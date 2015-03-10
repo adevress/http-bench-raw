@@ -1,0 +1,5 @@
+xrootd - no disk accesses available.
+FILESYSTEM='root'
+Opening 'root://t2-dpm-01.na.infn.it:1094//dteam/group.test.hc.NTUP_SMWZ.root'
+Error in <TNetXNGFile::Open>: [ERROR] Server responded with an error: [3010] Permission denied
+
